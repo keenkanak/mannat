@@ -1,0 +1,8 @@
+.paypal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+  width: 40vw;
+  margin: 3% auto;
+}

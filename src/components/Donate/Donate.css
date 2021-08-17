@@ -1,0 +1,72 @@
+.sub-header-1 {
+  min-height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url("../../assets/investors.jpg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.donate-description {
+  height: 100%;
+  width: 100%;
+
+  position: relative;
+}
+.donate-text-box {
+  width: 90%;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.donate-text-box h3 {
+  font-size: 60px;
+}
+.donate-text-box p {
+  font-size: 16px;
+  margin: 10px 0 40px;
+  color: #fff;
+}
+.form {
+  margin-top: 50px;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: inherit;
+  text-align: center;
+  height: 500px;
+}
+label {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 14px;
+}
+.text {
+  padding: 10px;
+  width: 200px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  border-radius: 10px;
+}
+input[type="email"] {
+  padding: 10px;
+  width: 200px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  border-radius: 10px;
+}
+input[type="number"] {
+  padding: 10px;
+  width: 200px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  border-radius: 10px;
+}
+input[type="tel"] {
+  padding: 10px;
+  width: 200px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  border-radius: 10px;
+}

@@ -1,0 +1,22 @@
+.newsArticle {
+  border: 1px solid lightgray;
+  margin: 8px;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 0.2s ease-in-out;
+}
+.newsArticle:nth-child(even) {
+  background: lightgrey;
+}
+.newsArticle:hover {
+  transform: scale(1.025);
+  border: 1px solid lightgray;
+}
+
+.newsArticle__img {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  height: 60%;
+  width: 100%;
+}

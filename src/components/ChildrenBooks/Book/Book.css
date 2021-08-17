@@ -1,0 +1,54 @@
+.Book {
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  margin: 10px;
+}
+.Book__rating {
+  display: flex;
+}
+.Book {
+  border: 1px solid lightgray;
+  margin: 8px;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 0.2s ease-in-out;
+}
+.Book:nth-child(even) {
+  background: lightgrey;
+}
+.Book:hover {
+  transform: scale(1.025);
+  border: 1px solid lightgray;
+}
+
+.Book__cart {
+  cursor: pointer;
+  margin: auto;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  letter-spacing: 1px;
+  color: #fff;
+  height: 35px;
+  width: 100px;
+  background: black;
+  border-radius: 3px;
+  box-shadow: 0 15px 30px rgba(black, 0.1);
+  transition: all 0.3s ease;
+}
+
+.Book__cart:hover {
+  background: #f3f3f3;
+  color: black;
+}
+
+.Book__img {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  object-fit: contain;
+  height: 60%;
+  width: 60%;
+}
