@@ -18,8 +18,20 @@ Stack:
 ![image](https://user-images.githubusercontent.com/72697334/136288454-f790dc3d-bbad-4975-997f-d39d8c400ae9.png)
 
 THE CHILDREN LOGIN PAGE
+  
+  A portal for children to login
 
 ![image](https://user-images.githubusercontent.com/72697334/136288538-a2360339-48d8-4998-a101-a6094215044c.png)
+
+THE CHILDREN PAGE:
+  Here they are granted access to a lot of free/subsidised materials such as books, online courses etc.
+  
+  ![image](https://user-images.githubusercontent.com/72697334/136289178-4e6e218b-b474-445d-899a-aef89e852c97.png)
+![image](https://user-images.githubusercontent.com/72697334/136289201-7addab99-29cb-46c3-9b87-2336a4833605.png)
+![image](https://user-images.githubusercontent.com/72697334/136289305-31324c8e-884d-4ea6-bbdd-28e3ad053a87.png)
+
+
+
 
 THE PARTNERS LOGIN PAGE
 
