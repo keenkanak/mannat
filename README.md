@@ -8,7 +8,7 @@ Stack:
 
   Frontend: React, HTML, CSS
   
-  Backend:  Node.js, Express, Firebase, Paypal Payments API, Coinbase API, News API.
+  Backend:  Node.js, Express, Axios, Firebase, Paypal Payments API, Coinbase API, News API.
   
   THE HOMEPAGE
   
