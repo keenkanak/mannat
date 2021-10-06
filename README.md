@@ -4,5 +4,25 @@ An E-Commerce + Social Media Platform specifically meant for children in rural
 areas affected by Covid-19 and NGOs. The platform provides various study materials and
 resources by tying up with various NGOs and schools.
 
-Stack: React, HTML, CSS, Node.js, Express, Firebase, Paypal Payments API,
-Coinbase API, News API.
+Stack:
+
+  Frontend: React, HTML, CSS
+  
+  Backend:  Node.js, Express, Firebase, Paypal Payments API, Coinbase API, News API.
+  
+  THE HOMEPAGE
+  
+  ![image](https://user-images.githubusercontent.com/72697334/136288423-7937bb85-7740-43b8-b05e-0142b54dfd20.png)
+![image](https://user-images.githubusercontent.com/72697334/136288437-05e689b2-476a-4c91-baaf-f972ed824899.png)
+![image](https://user-images.githubusercontent.com/72697334/136288451-839b1307-f2b0-4919-9121-8c8c4e54cf37.png)
+![image](https://user-images.githubusercontent.com/72697334/136288454-f790dc3d-bbad-4975-997f-d39d8c400ae9.png)
+
+THE CHILDREN LOGIN PAGE
+
+![image](https://user-images.githubusercontent.com/72697334/136288538-a2360339-48d8-4998-a101-a6094215044c.png)
+
+THE PARTNERS LOGIN PAGE
+
+![image](https://user-images.githubusercontent.com/72697334/136288586-5a93fbc0-2e99-44c7-a508-b665137e21de.png)
+
+
