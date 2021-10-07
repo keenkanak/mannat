@@ -4,6 +4,8 @@ An E-Commerce + Social Media Platform specifically meant for children in rural
 areas affected by Covid-19 and NGOs. The platform provides various study materials and
 resources by tying up with various NGOs and schools.
 
+It also features a social media platform specifically meant for NGOs to allow them to network and share resources.
+
 Stack:
 
   Frontend: React, HTML, CSS
